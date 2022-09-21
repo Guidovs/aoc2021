@@ -3,6 +3,7 @@
 target/
 /project/metals.sbt
 /project/project/
-.bloob/
+.bloop/
+.vscode/
 .metals/
 .DS_Store
